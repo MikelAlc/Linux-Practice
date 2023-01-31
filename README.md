@@ -1,3 +1,3 @@
-#LINUX practice
+# Linux-Practice
 
-LINUX practice is a practice repository used to learn Git, Bash and C.
+Linux-Practice is a practice repository used to learn Git, Bash and C.
